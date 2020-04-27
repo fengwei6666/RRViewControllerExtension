@@ -28,9 +28,9 @@ typedef enum {
 
 
 //do not enable this macro in release mode
-#if DEBUG
-#define VC_MemoryLeakDetectionEnabled 1
-#endif
+//#if DEBUG
+//#define VC_MemoryLeakDetectionEnabled 1
+//#endif
 
 NS_ASSUME_NONNULL_BEGIN
 
